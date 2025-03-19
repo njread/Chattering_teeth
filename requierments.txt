@@ -1,0 +1,15 @@
+# Box SDK for API interactions
+boxsdk==3.8.1
+
+# HTTP requests library
+requests==2.31.0
+
+# Web server for Cloud Run
+flask==2.3.3
+gunicorn==21.2.0
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# Basic utilities
+six==1.16.0
